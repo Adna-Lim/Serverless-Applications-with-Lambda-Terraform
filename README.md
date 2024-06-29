@@ -49,6 +49,18 @@ In this project, we will leverage Terraform to build a serverless application ar
 
 <br/>
 
+## Deploying AWS Resources
+
+To deploy the AWS resources, navigate into the Terraform directory and run the following commands:
+
+```
+terraform init
+terraform plan
+terraform apply
+```
+
+<br/>
+
 ## Calling the API endpoints
 
 1. Store Data (POST /data)
