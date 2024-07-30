@@ -4,7 +4,7 @@
 <img src="images/Serverless_Application.png" alt="image" style="width:600px;"/>
 </p>
 
-## Introduction
+## Overview
 
 In this project, we will leverage Terraform to build a serverless application architecture on AWS. This architecture is structured to harness the benefits of serverless computing, ensuring efficient scalability and cost-effectiveness.
 
